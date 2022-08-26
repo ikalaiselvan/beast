@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(30, 0, 0);
+    display :flex;
+    place-content: center;
+}
+
+.image {
+    height: 600px;
+    width: 350px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.beast {
+    text-align: center;
+    width: 360px;
+}
+
+
+
+
+h1 {
+    color: rgba(255, 255, 255, 1);
+    font-family: 'inter', sans-serif;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+}
+.p1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: rgba(167, 133, 132, 1);
+}
+
+.p2 {
+    color: rgba(255, 229, 228, 1);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    line-height: 20fonpx;
+    line-height: 1.5;
+}
+
+.span {
+    color: rgba(255, 255, 255, 1);
+    font-size: 5px;
+    vertical-align: top;
+}
